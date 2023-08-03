@@ -10,7 +10,7 @@
     HOSTNAME: "picasa"
     MEMSPLIT: "128"
     BOOTBEHAVIOUR: "B1" #B1 cli, B2 cli autologin, B3 desktop, B4 desktop autologin
-    LOCALE: "it_IT.UTF-8"
+    LOCALE: "de_DE.UTF-8"
     TIMEZONE: "Europe/Berlin"
     XKBLAYOUT: "de" #default "gb"
     NETNAMES: False
